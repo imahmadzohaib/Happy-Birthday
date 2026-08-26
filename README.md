@@ -15,14 +15,15 @@ Once deployed, view it at:
 
 1. Go to [github.com](https://github.com) and sign in
 2. Click **"New repository"** (green button)
-3. Name it anything, e.g. `birthday-irha`
+3. Name it anything, e.g. `birthday-my-love`
 4. Set visibility to **Public**
 5. Click **"Create repository"**
 6. Click **"uploading an existing file"**
 7. Drag and drop `index.html` → click **"Commit changes"**
-8. Go to **Settings → Pages**
-9. Under **Source**, select `main` branch → click **Save**
-10. Wait ~60 seconds → your site is live! 🎉
+8. Search for the word name and change it to your desired name
+9. Go to **Settings → Pages**
+10. Under **Source**, select `main` branch → click **Save**
+11. Wait ~60 seconds → your site is live! 🎉
 
 ### Option 2 — GitHub CLI / Terminal
 
