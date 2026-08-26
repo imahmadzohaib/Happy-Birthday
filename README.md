@@ -60,4 +60,4 @@ Then enable GitHub Pages in **Settings → Pages → Source: main**.
 
 ---
 
-*Made with 💖 by Ahmad Zohaib for Irha Shehzadi*
+*Made with 💖 by Ahmad Zohaib for ------*
