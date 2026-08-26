@@ -1,4 +1,4 @@
-# 🎉 Happy Birthday Irha Shehzadi
+# 🎉 Happy Birthday
 
 A magical animated birthday surprise page built with pure HTML, CSS & JavaScript.
 
