@@ -4,8 +4,8 @@ A magical animated birthday surprise page built with pure HTML, CSS & JavaScript
 
 ## 🌸 Live Demo
 
-Once deployed, view it at:  
-**`https://<your-username>.github.io/<repo-name>/`**
+View it at:  
+**`[https://<your-username>.github.io/<repo-name>](https://imahmadzohaib.github.io/Happy-Birthday/)/`**
 
 ---
 
