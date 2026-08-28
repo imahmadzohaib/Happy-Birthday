@@ -5,7 +5,7 @@ A magical animated birthday surprise page built with pure HTML, CSS & JavaScript
 ## 🌸 Live Demo
 
 View it at:  
-**`[https://imahmadzohaib.github.io/Happy-Birthday/](https://imahmadzohaib.github.io/Happy-Birthday/)`**
+[https://imahmadzohaib.github.io/Happy-Birthday/](https://imahmadzohaib.github.io/Happy-Birthday/)
 
 ---
 
