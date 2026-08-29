@@ -30,7 +30,7 @@ View it at:
 ```bash
 git init
 git add .
-git commit -m "🎉 Birthday surprise for Irha Shehzadi"
+git commit -m "🎉 Birthday surprise for -------"
 git branch -M main
 git remote add origin https://github.com/<your-username>/<repo-name>.git
 git push -u origin main
